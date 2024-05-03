@@ -10,3 +10,15 @@ obj/Debug/net8.0/Control.GlobalUsings.g.cs
 obj/Debug/net8.0/Control.assets.cache
 obj/project.assets.json
 obj/project.nuget.cache
+bin/
+        obj/Debug/net8.0/Control.csproj.CoreCompileInputs.cache
+        obj/Debug/net8.0/Control.csproj.FileListAbsolute.txt
+        obj/Debug/net8.0/Control.dll
+        obj/Debug/net8.0/Control.genruntimeconfig.cache
+        obj/Debug/net8.0/Control.pdb
+        obj/Debug/net8.0/Control.sourcelink.json
+        obj/Debug/net8.0/apphost
+        obj/Debug/net8.0/ref/
+        obj/Debug/net8.0/refint/
+        obj/Debug/net8.0/Control.AssemblyInfo.cs
+        obj/Debug/net8.0/Control.AssemblyInfoInputs.cache
