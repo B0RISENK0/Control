@@ -7,11 +7,31 @@
  */
 
 
-string[] firstarray = {"agj","jwkdfn","klwdd","jdhfl","j"};
 
-string[] newarray = new string[firstarray.Length];
+Console.WriteLine("Первоначальный массив:");
 
-for(int i = 0; i < firstarray.Length;i++)
+string[] StartArray = { "ads", "hf", "ujgy" };
+
+string[] NewArray = new string[StartArray.Length];
+
+for (int i = 0; i < StartArray.Length; i++)
 {
-    Console.WriteLine(firstarray[i]+" ");
+    Console.Write(StartArray[i] + " ");
+}
+
+Console.WriteLine();
+
+for (int i = 0; i < StartArray.Length; i++)
+{
+    if (StartArray[i].Length <= 3)
+    {
+        NewArray[i] = StartArray[i];
+    }
+}
+
+Console.WriteLine("Новый массив:");
+
+for (int i = 0; i < NewArray.Length; i++)
+{
+    Console.Write(NewArray[i]+" ");
 }
