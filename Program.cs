@@ -10,3 +10,8 @@
 string[] firstarray = {"agj","jwkdfn","klwdd","jdhfl","j"};
 
 string[] newarray = new string[firstarray.Length];
+
+for(int i = 0; i < firstarray.Length;i++)
+{
+    Console.WriteLine(firstarray[i]+" ");
+}
