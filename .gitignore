@@ -1,3 +1,5 @@
 obj
 bin
 Control.csproj
+obj/Debug/net8.0/Control.AssemblyInfo.cs
+obj/Debug/net8.0/Control.AssemblyInfoInputs.cache
