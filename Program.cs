@@ -5,4 +5,8 @@
    При решении не рекомендуется пользоваться коллекциями,
    лучше обойтись исключительно массивами.
  */
- 
+
+
+string[] firstarray = {"agj","jwkdfn","klwdd","jdhfl","j"};
+
+string[] newarray = new string[firstarray.Length];
