@@ -1,0 +1,12 @@
+Control.csproj
+obj/Control.csproj.nuget.dgspec.json
+obj/Control.csproj.nuget.g.props
+obj/Control.csproj.nuget.g.targets
+obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+obj/Debug/net8.0/Control.AssemblyInfo.cs
+obj/Debug/net8.0/Control.AssemblyInfoInputs.cache
+obj/Debug/net8.0/Control.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net8.0/Control.GlobalUsings.g.cs
+obj/Debug/net8.0/Control.assets.cache
+obj/project.assets.json
+obj/project.nuget.cache
